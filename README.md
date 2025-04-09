@@ -44,7 +44,7 @@ pyinstaller --onefile --noconsole taobao_suggest_api.py
 
 #### 默认监听地址为：
 ```bash
-http://localhost:65432/suggest?q=搜索词
+http://localhost:60000/suggest?q=搜索词
 ```
 
 ---
